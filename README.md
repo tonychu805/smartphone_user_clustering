@@ -14,21 +14,21 @@
 
 ## Dependencies and libraries
 
-•	The notebook utilizes a variety of R libraries, which are essential for data manipulation, visualization, and modeling:
-•	dplyr
-•	magrittr
-•	ggplot2
-•	tidyverse
-•	finalfit
-•	Hmisc
-•	pastecs
-•	psych
-•	corrplot
-•	DiscriMiner
-•	base
-•	reshape2
-•	resample
-•	dendextend
-•	fpc	
-•	dbscan
-•	cluster
+- The notebook utilizes a variety of R libraries, which are essential for data manipulation, visualization, and modeling:
+- dplyr
+- magrittr
+- ggplot2
+- tidyverse
+- finalfit
+- Hmisc
+- pastecs
+- psych
+- corrplot
+- DiscriMiner
+- base
+- reshape2
+- resample
+- dendextend
+- fpc	
+- dbscan
+- cluster
