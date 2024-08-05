@@ -12,7 +12,7 @@
 
 - Model Evaluation: Performance of clustering models is assessed using appropriate metrics and visualizations. The results are compared to draw insights and conclusions about the data patterns and clusters.
 
-- Results: 
+- Results: There seems to be naturally occurred clusters when using K-means partition clustering method with k value of 3 (optimal number of cluster). This configuration seems to be optimal for classifying the smartphone user dataset crisply.
 
 ## Git Repository content
 
