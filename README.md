@@ -20,7 +20,8 @@
 
 ## Dependencies and libraries
 
-- The notebook utilizes a variety of R libraries, which are essential for data manipulation, visualization, and modeling:
+The notebook utilizes a variety of R libraries, which are essential for data manipulation, visualization, and modeling:
+
 - dplyr
 - magrittr
 - ggplot2
